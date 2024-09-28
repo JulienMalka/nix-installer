@@ -13,7 +13,7 @@ pub const SCRATCH_DIR: &str = "/nix/temp-install-dir";
 
 /// Default [`nix_package_url`](CommonSettings::nix_package_url) for Linux x86_64
 pub const NIX_X64_64_LINUX_URL: &str =
-    "https://releases.nixos.org/nix/nix-2.20.5/nix-2.20.5-x86_64-linux.tar.xz";
+    "https://nuage.malka.family/s/Z6iNAmBSogpKJ6Q/download/nix-2.18.1-x86_64-linux.tar.xz";
 /// Default [`nix_package_url`](CommonSettings::nix_package_url) for Linux x86 (32 bit)
 pub const NIX_I686_LINUX_URL: &str =
     "https://releases.nixos.org/nix/nix-2.20.5/nix-2.20.5-i686-linux.tar.xz";
